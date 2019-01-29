@@ -1,0 +1,26 @@
+body {
+	padding-top: 70px;
+}
+
+span {
+	font-size: 0.5em;
+}
+
+/*.con{
+   background-color: yellow;
+}*/
+
+.footer-main-div{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	background: #ed9d1c;
+	padding: 20px 0px;
+
+}
+.glyphicon {
+	font-size: 100%;
+}
+.navbar-inverse{
+	background: #47443e;
+}
